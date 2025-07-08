@@ -1,7 +1,7 @@
 ----------------------- Web Server Structure --------------------------
------------------------------------------------------------------------
 
 We need to implement :
+----------------------
 
     => WebServer that listen on a prof , accept clients and process
         requests.
